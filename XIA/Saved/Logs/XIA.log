@@ -1420,3 +1420,7 @@ Level_001
 [2025.09.14-17.51.35:793][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.14-17.51.35:793][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.14-17.51.35:793][278]AssetCheck: /Game/Map/DemoLevel 正在验证资产
+[2025.09.14-17.52.38:541][658]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.14-17.52.55:302][567]LogSlate: Window '项目设置' being destroyed
+[2025.09.14-17.52.55:316][567]LogSlate: Window '项目设置' being destroyed
+[2025.09.14-17.52.56:867][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
